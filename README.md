@@ -48,8 +48,9 @@ $ dotnet build
 # Execute a aplicação de api em modo de desenvolvimento
 $ dotnet run
 
-# O projeto irá rodar através de um terminal apresentado no console um valor proposto pelo código:
+
 ```
+#### O projeto irá rodar através de um terminal apresentado no console um valor proposto pelo código:
 
 <div style="display: flex; justify-content: left; align-items: left; width: 70%;">
     <img src="./img/dotnet-run.png"  />
